@@ -15,7 +15,6 @@ echo " \___ \ / __| '__| | '_ \| __|     "
 echo "  ___) | (__| |  | | |_) | |_      "
 echo " |____/ \___|_|  |_| .__/ \__|     "
 echo "                   |_|             "
-printf "\nCreated by William Fitzgerald\n\n"
 echo "Tagret IP: "
 read target_ip
 PS3='Please enter your choice: '
